@@ -55,7 +55,7 @@ If the visualization does not open, inspect `.runtime/server.log`. Check `/api/h
 
 1. Drag the station to pan, scroll or pinch to zoom, or use the on-screen + / − controls. WASD / arrows also pan while a form isn't focused. **View station** resets the camera.
 2. Click a room or a department in the left navigation. **Locate** focuses the selected room. Click an employee or use **Agents** to inspect its current activity.
-3. In **Arbitrage Betting**, keep the virtual back stake at £100 and choose **Launch simulated scan**.
+3. In **Arbitrage Betting**, go to the overview tab, keep the virtual back stake at £100 and choose **Launch simulated scan**.
 4. Watch SCOUT and the three exchange workers move to their computers. AEGIS waits for their output, then moves to review risk. ATLAS moves last to review the report. All six return to standby when finished. A scan takes roughly 20–25 seconds.
 5. Choose **Inspect report**. Both fabricated markets appear, including one rejected after commission. A £100 fixture scan produces approximately £2.52 of estimated paper edge with £215.08 required capital.
 6. **Record paper order** reserves virtual capital once per scan. It does not settle an order or credit income. Treasury separates available funds, reserved funds and estimated edge from real revenue and expenses.
